@@ -3,5 +3,6 @@
   "render_readme": true,
   "homeassistant": "2024.11.0",
   "content_in_root": true,
-  "zip_release": "https://github.com/bdvandenberg/scheduler-component/releases/download/{version}/scheduler.zip"
+  "zip_release": true,
+  "filename": "scheduler-component.zip"
 }
