@@ -2,5 +2,6 @@
   "name": "Scheduler component",
   "render_readme": true,
   "homeassistant": "2024.11.0",
+  "content_in_root": true,
   "zip_release": "https://github.com/nielsfaber/scheduler-component/releases/download/{version}/scheduler.zip"
 }
